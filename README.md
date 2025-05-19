@@ -22,12 +22,12 @@ Este programa te muestra los números IMSI, el país, la marca y el operador de 
 ## Configuración
 
 ```bash
-git clone https://github.com/Oros42/IMSI-catcher.git
+git clone https://github.com/undefined-name12/catcher-imsi.git
 cd IMSI-catcher
 ```
 o
 ```bash
-wget https://github.com/Oros42/IMSI-catcher/archive/master.zip && unzip -q master.zip
+wget https://github.com/undefined-name12/catcher-imsi/archive/master.zip && unzip -q master.zip
 cd IMSI-catcher-master
 ```
 
@@ -63,7 +63,7 @@ gnuradio-config-info -v
 ```
 if >= 3.8
 ```bash
-git clone -b maint-3.8 https://github.com/velichkov/gr-gsm.git
+git clone -b maint-3.8 https://github.com/veligchkov/gr-gsm.it
 ```
 else (3.7)
 ```bash
