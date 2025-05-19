@@ -23,12 +23,12 @@ Este programa te muestra los números IMSI, el país, la marca y el operador de 
 
 ```bash
 git clone https://github.com/undefined-name12/catcher-imsi.git
-cd IMSI-catcher
+cd catcher-IMSI
 ```
 o
 ```bash
-wget https://github.com/undefined-name12/catcher-imsi/archive/master.zip && unzip -q master.zip
-cd IMSI-catcher-master
+wget https://github.com/undefined-name12/catcher-/archive/master.zip && unzip -q master.zip
+cd catcher-IMSI-master
 ```
 
 ```bash
