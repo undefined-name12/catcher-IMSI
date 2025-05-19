@@ -27,7 +27,7 @@ cd catcher-IMSI
 ```
 o
 ```bash
-wget https://github.com/undefined-name12/catcher-/archive/master.zip && unzip -q master.zip
+wget https://github.com/undefined-name12/catcher-IMSI/archive/master.zip && unzip -q master.zip
 cd catcher-IMSI-master
 ```
 
