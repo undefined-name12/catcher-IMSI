@@ -1,8 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Author: Oros
+# Author: undefined_name
 # 2016/10/06
-# License : CC0 1.0 Universal
 
 """
 Display SDCCH, Subchannel, Timeslot, HoppingChannel, ARFCN
