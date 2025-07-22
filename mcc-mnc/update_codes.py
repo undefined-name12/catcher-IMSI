@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Author: Oros
-# 2020-01-23
-# License : CC0 1.0 Universal
+# Author: undefined_name
 
 # This scipt update mcc_codes.json from this page https://en.wikipedia.org/wiki/Mobile_Network_Code
 
