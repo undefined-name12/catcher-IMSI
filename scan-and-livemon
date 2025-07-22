@@ -1,9 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #
-# Author: Petter Reinholdtsen
-# Contributor : Oros
-# Lisence: GPL v2 or later at your own choice
+# Author: undefined_name
 
 """
 Script to scan for base stations and start submitt GSM packages on one
